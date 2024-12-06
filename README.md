@@ -3,6 +3,6 @@
 ### code
 ````ruby
 def hello_world
- puts 'Hello WorldQ!'
+ puts 'Hello World!'
 end
 ````
